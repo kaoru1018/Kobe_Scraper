@@ -20,3 +20,6 @@
 
 ```bash
 python scrape_kobe_v2_rating.py
+
+## 学習の記録
+このプロジェクトは、GitとVisual Studio Codeを使用した初めての開発体験として作成されました。Webスクレイピングの基礎を学び、バージョン管理（GitHub）を通じてコードの変更履歴を記録・公開するプロセスを習得しました。
